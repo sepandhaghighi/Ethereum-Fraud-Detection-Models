@@ -58,6 +58,14 @@ These methods seek for accounts, customers, suppliers, etc. that behave ‘unusu
 
 Whether supervised or unsupervised methods are used, note that the output gives us only a sign of fraud likelihood. No stand-alone statistical analysis can assure that a specific object may be a fraudulent one, but they will identify them with very high degrees of accuracy.
 
+In this [hackathon](https://gitcoin.co/issue/29300) we have compared various classification models to check which model gives the best result.
+
+Used the following classification models:
+
+1. KNN
+2. Random forest
+3. Neural network(MLP)
+
 
 ## Datasets
 
