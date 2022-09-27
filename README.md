@@ -30,7 +30,7 @@ The following are the reasons why fraud detection analytics is important in orga
 
 6. Detects hidden patterns: Some of the traditional techniques of identifying fraud may fail to detect hidden patterns. Fraud detection analytics is superior to these techniques because it can identify hidden trends, scenarios, and patterns.
 
-7.Improved organizational performance: Fraud detection analytics minimizes fraudulent activities, which significantly reduces the loss of revenue as a result of fraud. Organizations achieve huge financial gains as a result of fraud analytics. These systems enhance efficiency and improve processes in financial transactions in organizations.
+7. Improved organizational performance: Fraud detection analytics minimizes fraudulent activities, which significantly reduces the loss of revenue as a result of fraud. Organizations achieve huge financial gains as a result of fraud analytics. These systems enhance efficiency and improve processes in financial transactions in organizations.
 
 How can data analytics help detect and prevent fraud? Here are three real-world examples:
 
