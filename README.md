@@ -150,4 +150,55 @@ We will analyze these two datasets both individually and in combination.
 
 Here you can see a limited number of examples. The full version of this analytics and all codes can be seen in the notebooks!
 
+<div style="text-align:center;" align="center">
+<pre>
+ERC20_min_val_rec                                      0.154421
+Total_ERC20_tnxs                                       0.114916
+ERC20_uniq_rec_addr                                    0.085711
+Time_Diff_between_first_and_last_Mins                  0.080427
+ERC20_uniq_rec_contract_addr                           0.069955
+Avg_min_between_received_tnx                           0.058168
+Average_of_Unique_Received_From_Addresses              0.046456
+total_ether_received                                   0.037595
+total_transactions_including_tnx_to_create_contract    0.036712
+ERC20_avg_val_rec                                      0.030953
+avg_val_received                                       0.030111
+Sent_tnx                                               0.022398
+Received_Tnx                                           0.021866
+min_val_sent                                           0.021263
+ERC20_total_ether_sent                                 0.020375
+ERC20_total_Ether_received                             0.018861
+ERC20_uniq_sent_addr_1                                 0.018135
+max_value_received                                     0.017657
+ERC20_total_Ether_sent_contract                        0.016291
+total_ether_balance                                    0.016271
+min_value_received                                     0.014136
+ERC20_uniq_sent_addr                                   0.013666
+total_Ether_sent                                       0.011947
+Avg_min_between_sent_tnx                               0.010480
+avg_val_sent                                           0.010065
+max_val_sent                                           0.008923
+Average_of_Unique_Sent_To_Addresses                    0.008289
+Number_of_Created_Contracts                            0.003955
+</pre>
+<p>Fig1. Features Importance</p>
+<hr/>
 
+<pre>
+Best : Random Forest
+
+Rank   Name              Class-Score       Overall-Score
+1      Random Forest     0.76667           0.87778
+2      KNN               0.725             0.78056
+3      Neural Network    0.65              0.74722
+</pre>
+<p>Fig2. Confusion Matrices Compare</p>
+<hr/>
+
+<img src="images/cm.png">
+<p>Fig3. Confusion Matrix</p>
+<hr/>
+
+<img src="images/rf.png">
+<p>Fig4. Decision Tree Classifier Diagram</p>
+<hr/>
