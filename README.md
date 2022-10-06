@@ -210,7 +210,7 @@ Rank   Name              Class-Score       Overall-Score
 <img src="images/rf.png">
 <p>Fig4. Decision Tree Classifier Diagram</p>
 <hr/>
-
+</div>
 
 ## Cite
 
