@@ -1,4 +1,4 @@
-# Data Analytics Bounty
+# Ethereum Fraud Detection Models
 
 --------------
 
@@ -8,7 +8,7 @@
 
 --------------
 
-## Analytics Idea
+## Overview
 
 The goal of data analytics is to detect potential fraud by spotting anomalies or deviations from “normal” behavior or patterns. To do that, an expert establishes a baseline of non-fraudulent activity to compare to the suspicious dataset. Understanding the concept of fraud detection analytics requires knowledge of the definition of the terms fraud and fraud detection. Fraud is a crime or deceptive action done by a criminal to get unlawful gain or unlawful access to information and assets. 
 
@@ -58,9 +58,9 @@ These methods seek for accounts, customers, suppliers, etc. that behave ‘unusu
 
 Whether supervised or unsupervised methods are used, note that the output gives us only a sign of fraud likelihood. No stand-alone statistical analysis can assure that a specific object may be a fraudulent one, but they will identify them with very high degrees of accuracy.
 
-In this [hackathon](https://gitcoin.co/issue/29300) we have compared various classification models to check which model gives the best result and also an attempt has been made to interpret them.
+Here we have compared various classification models to check which model gives the best result and also an attempt has been made to interpret them.
 
-Classification models:
+**Classification models:**
 
 1. KNN
 2. Random Forest
@@ -134,21 +134,21 @@ We will analyze these two datasets both individually and in combination.
 		</th>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/1.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/1.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/1.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/1.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master">Link</a></td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/2.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/2.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/2.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/2.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master">Link</a></td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Merged Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/3.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master/3.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Analytics-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/3.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master/3.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Models/blob/master">Link</a></td>
 		</tr>
 	</table>
 	<p>Table2. Notebooks</p>
