@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Ethereum Fraud Detection Models"
+abstract: "Here we have compared various classification models to detect fraudulent transactions and check which model gives the best result and also an attempt has been made to interpret them."
+authors:
+  - family-names: "Haghighi"
+    given-names: "Sepand"
+  - family-names: "Ramezani"
+    given-names: "Farzad"
+version: 1.0
+date-released: 2022-10-06
+repository-code: "https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models"
+license: MIT
+keywords:
+    - "Ethereum"
+    - "python"
+    - "Fraud"
+    - "data-science"
+    - "machine-learning"
