@@ -209,4 +209,25 @@ Rank   Name              Class-Score       Overall-Score
 
 <img src="images/rf.png">
 <p>Fig4. Decision Tree Classifier Diagram</p>
-<hr/>
+</div>
+
+## Cite
+
+If you use this repo in your work, please cite it using the following metadata:
+
+<pre>
+Haghighi, S., & Ramezani, F. (2022). Ethereum Fraud Detection Models (Version 1.0) [Computer software]. https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models
+</pre>
+<pre>
+
+@software{Haghighi_Ethereum_Fraud_Detection_2022,
+author = {Haghighi, Sepand and Ramezani, Farzad},
+license = {MIT},
+month = {10},
+title = {{Ethereum Fraud Detection Models}},
+url = {https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Models},
+version = {1.0},
+year = {2022}
+}
+
+</pre>
